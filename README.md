@@ -56,6 +56,4 @@ Desenvolvido por **Yara Magalhães**, estudante do 1ºsemestre de Análise de De
 * 📧 Email: [yaahmidapple@gmail.com](mailto:yaahmidapple@gmail.com) 
 * 💼 LinkedIn: [www.linkedin.com/in/yara-magalhães-51b3b1264](https://www.linkedin.com/in/yara-magalhães-51b3b1264) 
 
----
 
-Se quiser, posso ajustar para deixar mais técnico ou mais informal, ou traduzir para inglês. Deseja publicar esse projeto no GitHub Pages também? Posso te ajudar com isso!
