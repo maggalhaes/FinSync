@@ -1,5 +1,7 @@
 # FINSYNC
 Este repositório contém o projeto FinSync, uma plataforma de organização financeira digital desenvolvida como trabalho individual do 1º semestre da FIAP por Yara Magalhães.
+Quer dar uma espiadinha?
+https://fin-sync-six.vercel.app/
 
 
 
